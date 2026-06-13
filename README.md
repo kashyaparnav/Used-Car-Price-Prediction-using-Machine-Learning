@@ -164,6 +164,7 @@ Real-time Car Price Prediction API
 
  Sample Visualizations
 Price Distribution
+<img width="957" height="489" alt="image" src="https://github.com/user-attachments/assets/bb78d228-ce76-45da-b006-1c73a5f40a08" />
 
 Shows how car prices are distributed across the dataset.
 
