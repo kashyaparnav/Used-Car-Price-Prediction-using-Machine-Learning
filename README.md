@@ -125,7 +125,7 @@ Used-Car-Price-Prediction/
 └── requirements.txt
  Installation
 Clone Repository
-git clone https://github.com/yourusername/Used-Car-Price-Prediction.git
+git clone https://github.com/kashyaparnav/Used-Car-Price-Prediction-using-Machine-Learning/edit/main/README.md
 Navigate to Project
 cd Used-Car-Price-Prediction
 Install Dependencies
