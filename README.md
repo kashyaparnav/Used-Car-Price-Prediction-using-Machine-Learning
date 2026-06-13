@@ -168,13 +168,11 @@ Price Distribution
 <img width="957" height="489" alt="image" src="https://github.com/user-attachments/assets/bb78d228-ce76-45da-b006-1c73a5f40a08" />
 
 Shows how car prices are distributed across the dataset.
-
 Actual vs Predicted Prices
 <img width="673" height="493" alt="image" src="https://github.com/user-attachments/assets/10010853-8179-40d2-a6c5-4b48879e0373" />
 
 
 Visual comparison of model performance.
-
 Fuel Type Analysis
 <img width="641" height="404" alt="image" src="https://github.com/user-attachments/assets/53f6ed05-ebb9-480e-b86c-16bed1397a86" />
 
