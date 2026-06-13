@@ -92,6 +92,7 @@ Machine Learning Model
 Algorithm Used
 
 Linear Regression
+<img width="706" height="421" alt="image" src="https://github.com/user-attachments/assets/f602b7e6-a8e8-4552-9f9b-b9393a33acbe" />
 
 Linear Regression was selected because:
 
@@ -169,12 +170,18 @@ Price Distribution
 Shows how car prices are distributed across the dataset.
 
 Actual vs Predicted Prices
+<img width="673" height="493" alt="image" src="https://github.com/user-attachments/assets/10010853-8179-40d2-a6c5-4b48879e0373" />
+
 
 Visual comparison of model performance.
 
 Fuel Type Analysis
+<img width="641" height="404" alt="image" src="https://github.com/user-attachments/assets/53f6ed05-ebb9-480e-b86c-16bed1397a86" />
 
 Distribution of different fuel categories.
+
+Top 10 Car Companies
+<img width="981" height="554" alt="image" src="https://github.com/user-attachments/assets/42f30f6c-5b48-4216-9612-42f2e7254633" />
 
 Learning Outcomes
 
